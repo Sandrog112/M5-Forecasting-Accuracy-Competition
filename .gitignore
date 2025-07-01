@@ -1,4 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# IDE configurations
+.vscode/
+
+# Data and Outputs
+data/
+outputs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# File Extensions to ignore
+*.csv
+*.pickle
+*.pyc
+
 # Environment Variables
 venv/
 .env/
 .venv/
+
+# Installer logs
+pip-log.txt
