@@ -44,7 +44,7 @@ Also make sure to have [Docker Desktop](https://www.docker.com/products/docker-d
 This project has a modular structure, where each folder has a specific duty.
 
 ```bash
-.
+M5-Forecasting-Accuracy-Competition
 ├── data/                  # Dataset files (raw and processed data)
 ├── logs/                  # Logs generated during runs and experiments
 ├── models/                # Saved models
